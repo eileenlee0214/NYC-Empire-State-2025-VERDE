@@ -1,7 +1,3 @@
-# NYC-Empire-State-2025-VERDE
-pH tracker app for NYC Empire State iGEM Team's 2025 Project VERDE
-
-
 Verde
 =====
 
@@ -29,4 +25,3 @@ Testing (Need to use in Terminal/PowerShell):
 .. _`The BeeWare Project`: https://beeware.org/
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
 .. _`this page in the BeeWare tutorial`: https://docs.beeware.org/en/latest/tutorial/tutorial-0.html
-

@@ -1,0 +1,3 @@
+briefcase
+pyserial
+toga-chart
